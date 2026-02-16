@@ -128,10 +128,6 @@ Add custom WAF signatures to the `VENDORS` dictionary.
 
 **For authorized security testing only.** Only scan systems you own or have explicit permission to test. The authors are not responsible for misuse.
 
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
 ---
 
 <div align="center">
